@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7243b359-0774-49ac-a5e5-debdd14e95ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/FilesIo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/TestFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/ContactsList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/FilesIo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/FilesIo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,11 +94,26 @@
       <workItem from="1706271417338" duration="4651000" />
       <workItem from="1706308431179" duration="1476000" />
       <workItem from="1706397193489" duration="1331000" />
-      <workItem from="1706476590448" duration="2494000" />
+      <workItem from="1706476590448" duration="3231000" />
+      <workItem from="1706648198500" duration="4878000" />
+      <workItem from="1706731461431" duration="9437000" />
     </task>
+    <task id="LOCAL-00001" summary="HomeWork2">
+      <option name="closed" value="true" />
+      <created>1706479198028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706479198028</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork2" />
   </component>
 </project>
